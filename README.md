@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Akash Gowda A M
+- Undergraduate at PES UNIVERSITY (ECE)
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning basic coding
   
